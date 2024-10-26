@@ -1,0 +1,7 @@
+streamlit
+os
+keras
+tensorflow
+numpy
+pandas
+PIL
